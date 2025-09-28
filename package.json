@@ -1,0 +1,13 @@
+{
+  "name": "cad-web-server",
+  "version": "1.0.0",
+  "description": "CAD WebSocket server for SAMP CAD client integration.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "ws": "^8.13.0"
+  }
+}
